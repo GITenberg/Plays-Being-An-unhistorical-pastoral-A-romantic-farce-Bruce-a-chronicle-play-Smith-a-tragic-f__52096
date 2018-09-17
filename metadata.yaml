@@ -1,5 +1,5 @@
 _repo: Plays-Being-An-unhistorical-pastoral-A-romantic-farce-Bruce-a-chronicle-play-Smith-a-tragic-f__52096
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   adapter:
     agent_name: Davidson, John
@@ -7,7 +7,12 @@ contributor:
     deathdate: 1909
     gutenberg_agent_id: '37638'
     url: http://www.gutenberg.org/2009/agents/37638
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52096#Plays-Being-An-unhistorical-pastoral-A-romantic-farce-Bruce-a-chronicle-play-Smith-a-tragic-f_
 gutenberg_issued: '2016-05-17'
 gutenberg_type: Text
 identifiers:
