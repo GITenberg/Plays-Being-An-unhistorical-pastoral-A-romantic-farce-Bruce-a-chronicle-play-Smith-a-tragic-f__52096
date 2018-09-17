@@ -1,0 +1,25 @@
+_repo: Plays-Being-An-unhistorical-pastoral-A-romantic-farce-Bruce-a-chronicle-play-Smith-a-tragic-f__52096
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Davidson, John
+    birthdate: 1857
+    deathdate: 1909
+    gutenberg_agent_id: '37638'
+    url: http://www.gutenberg.org/2009/agents/37638
+description: ''
+gutenberg_issued: '2016-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Drama'
+- GITenberg
+title: "Plays\r\nBeing: An unhistorical pastoral: A romantic farce: Bruce, a chronicle\
+  \ play: Smith, a tragic farce: and Scaramouch in Naxos, a pantomime."
+url: http://www.gutenberg.org/ebooks/52096
